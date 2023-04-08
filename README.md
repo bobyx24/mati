@@ -50,7 +50,7 @@
 									</ul>
 								</div>
 								<div>
-									<h1 id="text02"><em>dita</em></h1>
+									<h1 id="text02"><em>Roar</em></h1>
 									<h3 id="text04">✧･ﾟ: <em>✧･ﾟ:</em> 　　 <em>:･ﾟ✧</em>:･ﾟ✧</h3>
 									<hr id="divider01">
 									<p id="text03"><mark>About me</mark></p>
